@@ -73,8 +73,8 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/adrianhajdin/healthcare.git
-cd healthcare
+git clone https://github.com/VinodKumarN1/medpulse.git
+cd medpulse
 ```
 
 **Installation**
@@ -98,8 +98,13 @@ DATABASE_ID=
 PATIENT_COLLECTION_ID=
 APPOINTMENT_COLLECTION_ID=
 NEXT_PUBLIC_BUCKET_ID=
-
 NEXT_PUBLIC_ADMIN_PASSKEY=111111
+
+SENTRY_AUTH_TOKEN=
+
+TWILIO_ACCOUNT_SID=
+TWILIO_AUTH_TOKEN=
+TWILIO_PHONE_NUMBER=
 ```
 
 Replace the placeholder values with your actual Appwrite credentials. You can obtain these credentials by signing up on the [Appwrite website](https://appwrite.io/).
