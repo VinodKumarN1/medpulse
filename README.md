@@ -1,7 +1,5 @@
 <div align="center">
-  <br />
-      <img src="https://github.com/VinodKumarN1/medpulse/blob/main/public/assets/Screenshot%202024-12-04%20005238.png" alt="Project Banner">
-  <br />
+ 
 
   <div>
     <img src="https://img.shields.io/badge/-Next_JS-black?style=for-the-badge&logoColor=white&logo=nextdotjs&color=000000" alt="nextdotjs" />
