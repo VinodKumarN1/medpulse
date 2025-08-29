@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/-Appwrite-black?style=for-the-badge&logoColor=white&logo=appwrite&color=FD366E" alt="appwrite" />
   </div>
 
-  <h3 align="center">A Cloud Based Appointment Scheduling Web Page - MedPulse</h3>
+  <h3 align="center">A Cloud Based Healthcare Appointment Scheduling Web Page - MedPulse</h3>
 
   
 </div>
